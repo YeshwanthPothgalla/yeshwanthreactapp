@@ -5,4 +5,4 @@ return <p>HellooNikhitha</p>
 
 }
 
-export default Greeting;
+export default Greeting
